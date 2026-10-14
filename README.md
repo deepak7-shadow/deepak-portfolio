@@ -9,3 +9,4 @@ Open `index.html` directly, or serve this folder with:
 ```powershell
 python -m http.server 4173
 ```
+This is the sample portfolio of me, personal details and educational details
